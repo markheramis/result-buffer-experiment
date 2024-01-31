@@ -18,6 +18,7 @@ This project serves as an experimental and demonstrative exploration of the diff
       - [Pros](#pros-1)
       - [Cons](#cons-1)
     - [Time Tracking](#time-tracking)
+  - [Todo](#todo)
 
 ## Features
 
@@ -86,3 +87,5 @@ Fetches and displays buffered result from the database.
 
 The script includes time tracking before and after each function call to measure the execution time of `fetchUnbufferedResult` and `fetchBufferedResult`. The total execution time is displayed after each set of operations.
 
+## Todo
+- add example .sql files
